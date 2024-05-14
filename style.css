@@ -10,7 +10,7 @@
 
 h1
 {
-    color: gray;
+    color: dark gray;
     font-size: 30pt;
     font-family: Arial;
     text-align: center;
@@ -34,7 +34,7 @@ a
 }  
 h2
 {
-    color: black;
+    color: medium gray;
     font-size: 25pt;
     font-family: Arial;
     text-align: center;
