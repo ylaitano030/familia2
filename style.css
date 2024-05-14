@@ -26,9 +26,10 @@ p
 a
 {
     color: blue;
-    font-size: 25pt
+    font-size: 25pt;
     text-align:left;
     text-decoration: none;
+    font-family: arial;
 }  
 
 
