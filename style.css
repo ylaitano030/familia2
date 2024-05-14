@@ -26,7 +26,14 @@ p
     font-size: 20pt;
     font-family: arial;
     text-align: left;
-    background-color: Whithe
-    
+    background-color: White;
+}
+a
+{
+    color: blue;
+    font-size: 25pt
+    text-align:left;
+    text-decoration: none;
+}  
 
 
