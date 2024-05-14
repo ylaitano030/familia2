@@ -31,5 +31,13 @@ a
     text-decoration: none;
     font-family: arial;
 }  
+h2
+{
+    color: black;
+    font-size: 25pt;
+    font-family: Arial;
+    text-align: center;
+    backgroung-color: white; 
+}
 
 
